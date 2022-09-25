@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThisisThamizh
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning algorithm 
 - 💞️ I’m looking to collaborate on _
 - 📫 can reach me on github, discord, Instagram and telegram.
 
