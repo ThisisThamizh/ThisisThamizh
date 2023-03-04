@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning algorithm 
 - 💞️ I’m looking to collaborate on _
 - 📫 can reach me on github, discord, Instagram and telegram.
-- [Click me](https://www.buymeacoffee.com/thisisthamizh)
+- [Buy me a Coffee](https://www.buymeacoffee.com/thisisthamizh)
 
 
 
