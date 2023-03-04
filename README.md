@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning algorithm 
 - 💞️ I’m looking to collaborate on _
 - 📫 can reach me on github, discord, Instagram and telegram.
-- {% include button.html url="https://www.buymeacoffee.com/thisisthamizh" %}
+- [Click me](https://www.buymeacoffee.com/thisisthamizh){: .btn}
+
 
 
 <!---
