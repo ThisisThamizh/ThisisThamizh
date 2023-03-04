@@ -1,7 +1,7 @@
-> 👋 Hi, I’m Thamizh.
-> 👀 I’m interested in web developing.
-> 🌱 I’m currently learning algorithm. 
-> 📫 can reach me on github, discord, Instagram and telegram.
+> 👋 Hi, I’m Thamizh.<br>
+> 👀 I’m interested in web developing.<br>
+> 🌱 I’m currently learning algorithm.<br> 
+> 📫 can reach me on github, discord, Instagram and telegram.<br>
 >> **[Buy me a Coffee](https://www.buymeacoffee.com/thisisthamizh)**.
 
 
