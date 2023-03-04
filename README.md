@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning algorithm 
 - 💞️ I’m looking to collaborate on _
 - 📫 can reach me on github, discord, Instagram and telegram.
-- [button url="https://www.buymeacoffee.com/thisisthamizh"]
+- {% include button.html url="https://www.buymeacoffee.com/thisisthamizh" %}
+
 
 <!---
 ThisisThamizh/ThisisThamizh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
