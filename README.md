@@ -2,7 +2,7 @@
 > 👀 I’m interested in web developing.<br>
 > 🌱 I’m currently learning algorithm.<br> 
 > 📫 can reach me on github, discord, Instagram and telegram.<br>
->> **[Buy me a Coffee](https://www.buymeacoffee.com/thisisthamizh)**.
+>> **[Buy me a Coffee](https://www.buymeacoffee.com/thisisthamizh)**. <img src="image.png" width="200" height="100">
 
 
 
