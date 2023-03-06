@@ -16,5 +16,13 @@ I'm passionate about web development!.<br>
 
 <div align="center">
   <h1 align="center">freelance</h1>
-<a href="https://www.upwork.com/freelancers/~01c1d35f3a3fc1203e?viewMode=1">**upwork**</a>
+<a href="https://www.upwork.com/freelancers/~01c1d35f3a3fc1203e?viewMode=1">upwork</a>
+</div>
+
+<br>
+
+<div align="center">
+  <h1 align="center">socials</h1>
+<a herf="https://instagram.com/thisis_thamizh">instagram</a>
+<a herf=""></a>
 </div>
