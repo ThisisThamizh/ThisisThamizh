@@ -4,10 +4,17 @@
 </div>
 
 <br>
+
 <div align="center">
-<h1 align="center">About Me</h1>
+  <h1 align="center">About Me</h1>
 Hi!, I'm Thamizhventhan.<br>
 From Sri Lanka.<br>
 I'm passionate about web development!.<br>
 </div>
 
+<br>
+
+<div align="center">
+  <h1 align="center">freelance</h1>
+ [
+</div>
