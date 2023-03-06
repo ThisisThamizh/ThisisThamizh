@@ -23,6 +23,6 @@ I'm passionate about web development!.<br>
 
 <div align="center">
   <h1 align="center">socials</h1>
-<a href="https://instagram.com/thisis_thamizh">instagram</a>
+<a href="https://instagram.com/thisis_thamizh">instagram</a> <br>
 <a href="https://discord.gg/2KNQQWF7Ku">discord</a>
 </div>
