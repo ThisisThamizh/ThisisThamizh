@@ -16,6 +16,5 @@ I'm passionate about web development!.<br>
 
 <div align="center">
   <h1 align="center">freelance</h1>
-<a href="https://www.upwork.com/freelancers/~01c1d35f3a3fc1203e?viewMode=1"><img="![image](https://user-images.githubusercontent.com/91716052/223034160-244785d8-21a1-45d3-829f-5cc32d2f8cfc.png)
-"></a>
+<a href="https://www.upwork.com/freelancers/~01c1d35f3a3fc1203e?viewMode=1"><img="https://user-images.githubusercontent.com/91716052/223034160-244785d8-21a1-45d3-829f-5cc32d2f8cfc.png"></a>
 </div>
