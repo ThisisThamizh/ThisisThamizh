@@ -9,7 +9,8 @@
   <h1 align="center">About Me</h1>
 Hi!, I'm Thamizhventhan.<br>
 From Sri Lanka.<br>
-I'm passionate about web development!.<br>
+I'm a front-end web developer.<br>
+with 1.5 years of experiance <br>
 </div>
 
 <br>
