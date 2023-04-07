@@ -1,6 +1,6 @@
 <h1 align="center">Thisis Thamizh!</h1>
 <div align="center">
-<a href="https://www.buymeacoffee.com/thisisthamizh"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=acutewoof&button_colour=d978ba&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00"/></a>
+<a href="https://www.buymeacoffee.com/thisisthamizh"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=thisisthamizh&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 </div>
 
 <br>
