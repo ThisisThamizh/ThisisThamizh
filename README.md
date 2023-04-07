@@ -26,7 +26,6 @@ with 1.5 years of experiance <br>
 
 <div align="center">
   <h1 align="center">socials</h1>
-<img href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQIDGLDaK_Cq0ghjun89cIK7fiuGrOSB9cdQ&usqp=CAU" width="50px" height="50px"/>
 <a href="https://instagram.com/thisis_thamizh">instagram</a> <br>
 <a href="https://discord.gg/2KNQQWF7Ku">discord</a>
 </div>
