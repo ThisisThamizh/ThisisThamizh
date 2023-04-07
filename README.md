@@ -26,7 +26,7 @@ with 1.5 years of experiance <br>
 
 <div align="center">
   <h1 align="center">socials</h1>
-<img href="https://thamizh.is-a.dev/source/ionicons.designerpack/logo-instagram.svg" width="100px" height="100px"/>
+<img href="[https://thamizh.is-a.dev/source/ionicons.designerpack/logo-instagram.svg](https://w7.pngwing.com/pngs/254/553/png-transparent-instagram-logo-new-logo-photo-social-logos-icon.png)" width="10px" height="10px"/>
 <a href="https://instagram.com/thisis_thamizh">instagram</a> <br>
 <a href="https://discord.gg/2KNQQWF7Ku">discord</a>
 </div>
