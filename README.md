@@ -17,7 +17,7 @@ with 1.5 years of experiance <br>
 
 <div align="center">
   <h1 align="center">freelance</h1>
-<a href="https://www.upwork.com/freelancers/~01c1d35f3a3fc1203e?viewMode=1"><img src="https://thamizh.is-a.dev/source/images/upwork.png" width="250px" height="55px"/></a>
+<a href="https://www.upwork.com/freelancers/~01c1d35f3a3fc1203e?viewMode=1"><img src="https://thamizh.is-a.dev/source/images/upwork.png" width="220px" height="55px"/></a>
 </div>
 
 <br>
