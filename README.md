@@ -1,4 +1,4 @@
-<h1 align="center">Thisis Thamizh!</h1>
+<h1 align="center"><a href="thamizh.is-a.dev">ThisisThamizh</a></h1>
 <div align="center">
 <a href="https://www.buymeacoffee.com/thisisthamizh"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=thisisthamizh&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 </div>
