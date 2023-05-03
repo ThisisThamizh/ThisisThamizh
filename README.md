@@ -1,6 +1,5 @@
 <div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Thamizh </h1> </div>
 
-# About Me
 <h1 align="center" text-decoration="none"><a href="https://thamizh.is-a.dev/">ThisisThamizh</a></h1>
 
 <div align="center">
