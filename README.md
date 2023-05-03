@@ -75,9 +75,9 @@ with 1.5 years of experiance <br>
 ![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)
 
 # GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Thisis_Thamizh&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Thisis_Thamizh&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisis_Thamizh&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ThisisThamizh&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ThisisThamizh&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisisThamizh&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Latest Tweet
 [![](https://tweeco.pushkaryadav.in/api/handle/thisis_thamizh)](https://tweeco.pushkaryadav.in)
