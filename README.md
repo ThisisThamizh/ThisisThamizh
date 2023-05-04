@@ -40,12 +40,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)
+![Discord](https://img.shields.io/badge/Thamizh's server-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)
+![Instagram](https://img.shields.io/badge/thisis_thamizh-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)
-![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)
-![Xbox](https://img.shields.io/badge/<MRFROZENFIRE979>-%23107C10.svg?logo=Xbox&logoColor=white&style=for-the-badge)
+![Twitter](https://img.shields.io/badge/thisis_thamizh-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)
+![Xbox](https://img.shields.io/badge/MRFROZENFIRE979-%23107C10.svg?logo=Xbox&logoColor=white&style=for-the-badge)
 
 # GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ThisisThamizh&hide_border=false&include_all_commits=false&count_private=false) 
