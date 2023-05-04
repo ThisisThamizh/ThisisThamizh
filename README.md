@@ -40,7 +40,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
+<a href="">
 ![Discord](https://img.shields.io/badge/Thamizh's_server-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)
+</a>
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)
 ![Instagram](https://img.shields.io/badge/thisis__thamizh-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)
