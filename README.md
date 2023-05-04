@@ -48,9 +48,12 @@
 ![Xbox](https://img.shields.io/badge/<handle>-%23107C10.svg?logo=Xbox&logoColor=white&style=for-the-badge)
 
 # GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ThisisThamizh&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThisisThamizh&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=ThisisThamizh&hide_border=false&include_all_commits=false&count_private=false) 
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ThisisThamizh&hide_border=false) 
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisisThamizh&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
 # Latest Tweet
 [![](https://tweeco.pushkaryadav.in/api/handle/thisis_thamizh)](https://tweeco.pushkaryadav.in)
