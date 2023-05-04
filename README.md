@@ -43,19 +43,19 @@
 <a href="https://discord.gg/2KNQQWF7Ku">
 ![Discord](https://img.shields.io/badge/Thamizh's_server-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)
 </a>
-<a herf="https://www.facebook.com/thamilventhan.kannadass/">
+<a href="https://www.facebook.com/thamilventhan.kannadass/">
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)
 </a>
 <a href="https://www.instagram.com/thisis_thamizh/">
 ![Instagram](https://img.shields.io/badge/thisis__thamizh-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)
 </a>
-<a herf="https://www.reddit.com/user/K_Thamizh">
+<a href="https://www.reddit.com/user/K_Thamizh">
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)
 </a>
-<a herf="https://twitter.com/thisis_thamizh">
+<a href="https://twitter.com/thisis_thamizh">
 ![Twitter](https://img.shields.io/badge/thisis__thamizh-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)
 </a>
-<a herf="">
+<a href="">
 ![Xbox](https://img.shields.io/badge/MRFROZENFIRE979-%23107C10.svg?logo=Xbox&logoColor=white&style=for-the-badge)
 </a>
 
