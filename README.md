@@ -45,7 +45,7 @@
 ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)
 ![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)
-![Xbox](https://img.shields.io/badge/<handle>-%23107C10.svg?logo=Xbox&logoColor=white&style=for-the-badge)
+![Xbox](https://img.shields.io/badge/<MRFROZENFIRE979>-%23107C10.svg?logo=Xbox&logoColor=white&style=for-the-badge)
 
 # GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ThisisThamizh&hide_border=false&include_all_commits=false&count_private=false) 
