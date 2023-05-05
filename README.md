@@ -17,7 +17,7 @@
 
 <a href="https://www.upwork.com/freelancers/~01c1d35f3a3fc1203e?viewMode=1">
 
-<img src="https://thamizh.is-a.dev/source/images/upwork.png" width="225px" height="55px"/>
+<img src="https://thamizh.is-a.dev/source/images/upwork.png" width="225px" height="50px"/>
 
 </a>
 
