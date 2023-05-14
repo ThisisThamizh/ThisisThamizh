@@ -77,7 +77,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-##Socials 
+## Socials 
 ![Discord](https://img.shields.io/badge/Thamizh's_server-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)
 </a>
 <a href="https://www.facebook.com/thamilventhan.kannadass/">
