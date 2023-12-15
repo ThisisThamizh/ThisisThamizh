@@ -88,7 +88,5 @@
 <br>
 
 
-# Latest Tweet
-[![](https://tweeco.pushkaryadav.in/api/handle/thisis_thamizh)](https://tweeco.pushkaryadav.in)
-
-[![](https://visitcount.itsvg.in/api?id=ThisisThamizh&icon=0&color=0)](https://visitcount.itsvg.in)
+# Traffic
+![Visitor Count](https://profile-counter.glitch.me/ThisisThamizh/count.svg)
