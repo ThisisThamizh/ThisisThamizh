@@ -82,7 +82,9 @@
 
 # GitHub Stats :
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThisisThamizh&hide_border=false&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThisisThamizh&theme=dark)
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThisisThamizh&theme=dark)
 <br>
 
 
