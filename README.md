@@ -89,5 +89,6 @@
 
 
 # Traffic
-<p>Github profile</p>
+<b>Github profile</b>
+
 ![Visitor Count](https://profile-counter.glitch.me/ThisisThamizh/count.svg)
